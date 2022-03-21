@@ -1,0 +1,54 @@
+/* https://coolors.co/palette/d9ed92-b5e48c-99d98c-76c893-52b69a-34a0a4-168aad-1a759f-1e6091-184e77
+
+Color palete 
+
+*/
+
+Body {
+    background-color: #D9ED92;
+    color: #34A0A4;
+    text-align: center;
+}
+
+/*  nav bar */
+
+.navbar {
+    width: 100%;
+    text-align: center;
+    background-color: #184E77;
+    color: #D9ED92;
+    justify-content: center;
+}
+
+
+.nav li {
+    list-style-type: none;
+
+}
+
+/* intro */
+.intro {
+    justify-content: center;
+}
+
+.intro a:visited {
+    color: #184E77;
+}
+
+.intor a{
+    color: #D9ED92;
+}
+.intro a:hover {
+    color: #76C893;
+}
+
+/* quotes */
+.quotes {
+    justify-content: center;
+}
+
+.col {
+    background-color: #99D98C;
+    margin: 5px;
+    color: #184E77;
+}
